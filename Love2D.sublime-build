@@ -1,0 +1,4 @@
+{
+	"selector": "source.lua",
+	"cmd": ["/usr/bin/love", "$file_path"]
+}
